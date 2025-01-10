@@ -1,0 +1,4 @@
+
+The image displays a screen with a video playing on it, which has captions like "Video currently unavailable". The audio for this video is also displayed as an option to play or pause.
+
+video_url: https://www.tiktok.com/@dxany.15/video/6790467127515122949

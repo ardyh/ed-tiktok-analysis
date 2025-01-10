@@ -1,0 +1,4 @@
+
+The image displays a video player on the screen, which shows a video currently playing with an audio icon next to it. The video is titled "Video currently unavailable."
+
+video_url: https://www.tiktok.com/@socal.ava/video/6952414544048164101

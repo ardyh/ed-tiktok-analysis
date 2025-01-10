@@ -1,0 +1,4 @@
+
+The image on the screen is a view of a TikTok app, which shows a video playing with the caption "Video currently unavailable". The sound icon is visible at the bottom right corner of the screen.
+
+video_url: https://www.tiktok.com/@beat.me.till.im.dead/video/7218534678565883138

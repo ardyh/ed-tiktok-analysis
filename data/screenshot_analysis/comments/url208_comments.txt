@@ -1,0 +1,4 @@
+
+The image shows a screenshot with a video playing on the screen, and it has a caption at the bottom of the screen. The text reads, "Video currently unavailable."
+
+video_url: https://www.tiktok.com/@izzyisrecovering/video/6993766320999238917

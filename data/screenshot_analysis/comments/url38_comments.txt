@@ -1,0 +1,4 @@
+
+The image shows a computer screen with an error message on it, indicating that there was an issue with the video currently playing. The text in the video reads "video currently unavailable".
+
+video_url: https://www.tiktok.com/@planetblondie/video/7150878210853473582

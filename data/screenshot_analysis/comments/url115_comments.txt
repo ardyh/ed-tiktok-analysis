@@ -1,0 +1,4 @@
+
+The image on the screen shows a computer with a webpage open to a video page. The video is currently playing, and there are several buttons visible in various positions across the screen.
+
+video_url: https://www.tiktok.com/@beat.me.till.im.dead/video/7197005778690018561
